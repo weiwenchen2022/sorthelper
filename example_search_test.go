@@ -7,7 +7,7 @@ package sorthelper_test
 import (
 	"fmt"
 
-	"sorthelper"
+	"github.com/weiwenchen2022/sorthelper"
 )
 
 // This example demonstrates searching a list sorted in ascending order.

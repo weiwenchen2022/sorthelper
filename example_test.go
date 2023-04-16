@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math"
 
-	"sorthelper"
+	"github.com/weiwenchen2022/sorthelper"
 )
 
 func ExampleInts() {

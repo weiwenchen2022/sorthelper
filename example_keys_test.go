@@ -7,7 +7,7 @@ package sorthelper_test
 import (
 	"fmt"
 
-	"sorthelper"
+	"github.com/weiwenchen2022/sorthelper"
 )
 
 // A couple of type definitions to make the units clear.

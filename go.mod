@@ -1,4 +1,4 @@
-module sorthelper
+module github.com/weiwenchen2022/sorthelper
 
 go 1.20
 

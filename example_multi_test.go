@@ -7,7 +7,7 @@ package sorthelper_test
 import (
 	"fmt"
 
-	"sorthelper"
+	"github.com/weiwenchen2022/sorthelper"
 )
 
 // A Change is a record of source code changes, recording user, language, and delta size.

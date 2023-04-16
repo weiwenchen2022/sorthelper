@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"sorthelper"
+	"github.com/weiwenchen2022/sorthelper"
 )
 
 type Grams int
